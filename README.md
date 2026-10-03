@@ -6,7 +6,7 @@ Actividad práctica: **garantizar la calidad y estabilidad del software mediante
 
 Resultado de ejecutar `npm run coverage` (`vitest run --coverage`):
 
-![Resumen de cobertura en consola](imagen.png)
+![Resumen de cobertura en consola](image.png)
 
 | Métrica    | Cobertura | Mínimo requerido |
 | ---------- | --------- | ---------------- |
